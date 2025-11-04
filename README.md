@@ -203,7 +203,7 @@ REACT_APP_BACKEND_URL=<your-domain>
 ```
 /app/
 ├── backend/
-│   ├── server.py          # FastAPI application
+│   ├── app.py             # FastAPI application
 │   ├── .env               # Environment variables
 │   └── requirements.txt   # Python dependencies
 ├── frontend/
